@@ -23,7 +23,7 @@ This project combines web scraping with natural language processing (NLP) using 
 --------------
 
 1. Install Node.js (if not already installed) from the official website.
-2. Clone this repository to your local machine using `git clone https://github.com/your-username/llama-web-scraping.git`
+2. Clone this repository to your local machine using `git clone "https://github.com/DonchoAP/Scrapping_the_web_with_llama3`
 3. Run `npm install` to install project dependencies.
 
 **Usage**
