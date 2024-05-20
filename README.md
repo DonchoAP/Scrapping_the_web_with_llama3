@@ -17,7 +17,7 @@ This project combines web scraping with natural language processing (NLP) using 
 -----------------
 
 * Node.js (version 14 or later)
-* LLaMA API (not officially available, but can be substituted with similar NLP libraries)
+* LLAMA API (not officially available, but can be substituted with similar NLP libraries)
 
 **Installation**
 --------------
